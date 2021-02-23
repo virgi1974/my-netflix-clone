@@ -1,4 +1,4 @@
-import './App.css';
+import "./App.css";
 import Row from "./Row";
 import requests from "./requests";
 
