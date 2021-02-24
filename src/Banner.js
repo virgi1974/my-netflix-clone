@@ -45,10 +45,10 @@ function Banner() {
         </div>
 
         <h1 className="banner__description">
-          {/* {movie?.overview ? truncate(movie?.overview, 150) : "upsssssssssssss"} */}
           {truncate(movie?.overview || "upssss", 150)}
         </h1>
       </div>
+      <div className="banner--fadeBotton"></div>
     </header>
   );
 }
