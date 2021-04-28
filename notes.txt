@@ -1,0 +1,26 @@
+########### app created with yarn
+yarn create react-app my-netflix-clone
+
+########### app runs with yarn
+yarn start
+
+########### TMDB api key
+API Key: 670484ef20a855712f317429886d2ecd
+
+########### firebase settings
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="/__/firebase/8.2.9/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="/__/firebase/8.2.9/firebase-analytics.js"></script>
+
+<!-- Initialize Firebase -->
+<script src="/__/firebase/init.js"></script>
+
+https://developers.themoviedb.org/3/trending/get-trending ->> here we can find how the queries must be composed
+
+
+firebase login
+firebase init
+firebase depploy
